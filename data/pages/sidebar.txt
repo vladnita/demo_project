@@ -1,0 +1,24 @@
+====== Fizica ======
+
+==== Clasa a 9-a ====
+
+== PRINCIPII ŞI LEGI ÎN MECANICA NEWTONIANĂ ==
+  - [[Mărimi fizice]]
+  - [[Mişcare şi repaus]]
+  - [[Viteza]]
+  - [[Acceleraţia]]
+  - [[Mişcarea rectilinie uniformă]]
+  - [[Mișcarea circulară uniformă]]
+  - [[Principiul I al mecanicii]]
+  - [[Principiul al II-lea al mecanicii]]
+  - [[Principiul al III-lea al mecanicii ]]
+  - [[Forța de greutate]]
+  - [[Deformarea elastică. Forţa elastică]]
+  - [[Forţa de frecare. Legile frecării]]
+==TEOREME DE VARIAŢIE ŞI LEGI DE CONSERVARE ÎN MECANICĂ==
+  - [[Lucrul mecanic ]]
+  - [[Puterea mecanica. Randamentul mecanic]]
+  - [[Energia mecanică]]
+
+
+
